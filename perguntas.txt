@@ -1,0 +1,10 @@
+Qual é a capital da França?|A capital da França é Paris.
+Quem descobriu o Brasil?|O Brasil foi descoberto por Pedro Álvares Cabral.
+Qual é o maior planeta do Sistema Solar?|O maior planeta do Sistema Solar é Júpiter.
+Quem escreveu Dom Quixote?|Dom Quixote foi escrito por Miguel de Cervantes.
+Qual é a fórmula química da água?|A fórmula química da água é H2O.
+Quem pintou a Mona Lisa?|A Mona Lisa foi pintada por Leonardo da Vinci.
+Qual é a velocidade da luz?|A velocidade da luz é aproximadamente 299.792.458 metros por segundo.
+Em que ano terminou a Segunda Guerra Mundial?|A Segunda Guerra Mundial terminou em 1945.
+Qual é a montanha mais alta do mundo?|A montanha mais alta do mundo é o Monte Everest.
+Quem é o autor de Hamlet?|Hamlet foi escrito por William Shakespeare.

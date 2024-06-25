@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perguntas e Respostas</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Perguntas e Respostas</h1>
+        <form method="post">
+            <label for="pergunta">Faça uma pergunta:</label>
+            <input type="text" id="pergunta" name="pergunta" required>
+            <label for="limiar_distancia">Limiar de Distância:</label>
+            <input type="number" id="limiar_distancia" name="limiar_distancia" value="5" required>
+            <button type="submit">Enviar</button>
+        </form>
+        {% if resposta %}
+            <div class="resposta">
+                <h2>Resposta:</h2>
+                <p>{{ resposta }}</p>
+            </div>
+        {% endif %}
+    </div>
+</body>
+</html>
